@@ -4,5 +4,5 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-custom-properties-opll95H0eO)
+- Live Site URL: [here](https://fancy-unicorn-08c13b.netlify.app)
